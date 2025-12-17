@@ -1,0 +1,6 @@
+verde
+libro
+rojos
+silla
+mesas
+black
