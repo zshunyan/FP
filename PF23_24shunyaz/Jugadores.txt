@@ -1,0 +1,4 @@
+maria 7 4 
+jose 8 4 
+felipe 4 2 
+marta 7 4 
